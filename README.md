@@ -10,7 +10,7 @@ We based our work on the implementation of https://github.com/jwyang/faster-rcnn
 * **resnet.py**: Modify the architecture of the original ResNet-101 network and apply deformable convolution layer.
 * **DeformableConv2d.py**: Implement the idea of deformable convolution.
 ## Result
-![alt text](https://raw.githubusercontent.com/findoctor/Object-detection/master/Result.png)
+![alt text](https://raw.githubusercontent.com/findoctor/Object-detection/master/Result.jpg)
 
 
 
